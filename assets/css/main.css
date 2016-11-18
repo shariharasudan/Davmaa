@@ -1707,7 +1707,7 @@
 		section > :last-child, section:last-child, article > :last-child, article:last-child {
 			margin-bottom: 0;
 			text-align: justify;
-
+			background-color: beige;
 		}
 
 		section.special > header, section.special > footer, article.special > header, article.special > footer {
@@ -1716,6 +1716,7 @@
 
 	.row > section, .row > article {
 		margin-bottom: 0;
+
 	}
 
 	header {
@@ -2374,6 +2375,7 @@
 
 	#main {
 		margin-bottom: 0;
+		background-color: beige;
 	}
 
 		#main section:first-of-type {
